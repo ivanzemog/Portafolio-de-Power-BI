@@ -19,6 +19,10 @@ Analizar el comportamiento de las ventas para identificar tendencias, productos 
 
 ![Dashboard](dashboard.png)
 
+## 🌐 Dashboard en línea
+
+[📊 Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiMjlmNGIwNjctMjllMC00ZTQwLTkzMjQtZTM5NWQ2Nzc0NTJkIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9)
+
 ## Archivos
 
 - proyecto_1_ventas.pbix
