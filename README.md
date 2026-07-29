@@ -19,7 +19,6 @@ Actualmente continúo fortaleciendo mis conocimientos en **Business Intelligence
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
 | [📈 Análisis de Ventas](Proyectos/01-Analisis-Ventas) | Dashboard de ventas | ✅ |
-| 🚧 Próximamente | Nuevos proyectos de Recursos Humanos, Finanzas y Salud. | Power BI |
 
 ---
 
