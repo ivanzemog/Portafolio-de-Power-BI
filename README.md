@@ -18,7 +18,7 @@ Actualmente continúo fortaleciendo mis conocimientos en **Business Intelligence
 
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
-| 📈 Análisis de Ventas | Dashboard para el análisis de ventas, facturación y productos más vendidos. | Power BI, DAX, Power Query |
+| 📈 Análisis de Ventas](Proyectos/01-Analisis-Ventas) | Dashboard para el análisis de ventas, facturación y productos más vendidos. | Power BI, DAX, Power Query |
 | 🚧 Próximamente | Nuevos proyectos de Recursos Humanos, Finanzas y Salud. | Power BI |
 
 ---
