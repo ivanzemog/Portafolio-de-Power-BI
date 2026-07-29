@@ -9,11 +9,6 @@ soporte funcional de aplicaciones y desarrollo de consultas y modelos en SQL y P
 versátil, proactiva y con capacidad de trabajo en equipo, orientada a la mejora continua de
 procesos y al desarrollo profesional dentro del área de datos y tecnología.
 
-- Power BI
-- SQL
-- Python
-- Excel
-
 Mi objetivo es transformar datos en información útil para la toma de decisiones.
 
 ---
@@ -28,7 +23,14 @@ Mi objetivo es transformar datos en información útil para la toma de decisione
 
 ## 🛠 Tecnologías
 
-- Power BI
+Python
+SQL
+Power BI
+Alteryx
+Excel avanzado
+QGIS / QField
+PostgreSQL/Oracle/ DBeaver
+GitLab
 ---
 
 ## 📬 Contacto
