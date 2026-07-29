@@ -22,7 +22,6 @@ Mi objetivo es transformar datos en información útil para la toma de decisione
 ---
 
 ## 🛠 Tecnologías
-
 Python
 SQL
 Power BI
