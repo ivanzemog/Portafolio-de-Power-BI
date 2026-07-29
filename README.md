@@ -54,7 +54,7 @@ Cada proyecto incluye:
 
 # 📬 Contacto
 
-- 💼 **LinkedIn:** *www.linkedin.com/in/pedro-ivan-gómez-enciso-4a09592*
+- 💼 **LinkedIn:** *www.linkedin.com/in/pedro-ivan-gómez-enciso-4a0959203*
 - 💻 **GitHub:** *Ivan Gomez Enciso*
 - 📧 **Correo:** *Ivanenciso701@gmail.com*
 
