@@ -14,13 +14,10 @@ Analizar el comportamiento de las ventas para identificar tendencias, productos 
 ## Herramientas
 
 - Power BI
-- DAX
-- Power Query
-- Excel
 
 ## Dashboard
 
-> Aquí se mostrará la imagen del dashboard.
+![Dashboard](dashboard.png)
 
 ## Archivos
 
