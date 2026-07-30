@@ -27,7 +27,7 @@ La empresa solicita un análisis de la información disponible para identificar 
 
 ## 📷 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](nuevo-centro.png)
 
 ---
 
@@ -40,7 +40,7 @@ La empresa solicita un análisis de la información disponible para identificar 
 ---
 ## 🌐 Dashboard en línea
 
-[📊 Ver Dashboard Interactivo] (https://app.powerbi.com/view?r=eyJrIjoiZDYzMDYyODYtZWRiYy00MTNjLTlkMzEtNDYxZGFiYTdiNmQ0IiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9)
+[📊 Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiZDYzMDYyODYtZWRiYy00MTNjLTlkMzEtNDYxZGFiYTdiNmQ0IiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9)
 
 ---
 
