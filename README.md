@@ -19,12 +19,14 @@ Actualmente continúo fortaleciendo mis conocimientos en **Business Intelligence
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
 | [📈 Análisis de Ventas](Proyectos/01-Analisis-Ventas) | Dashboard de ventas | ✅ |
+| [📈 Análisis de Ventas](Proyectos/02-Analisis-Nuevo-Centro-Distribucion) | Dashboard nuevo centro de distribucion | ✅ |
 
 ---
 
 # 🛠 Tecnologías
 
 - 📊 Power BI
+- 🔄 Power Query
 - 🐍 Python
 - 🗄 SQL
 - 📈 Microsoft Excel (Avanzado)
