@@ -20,7 +20,7 @@ Actualmente continúo fortaleciendo mis conocimientos en **Business Intelligence
 |----------|-------------|--------|
 | [📈 Análisis de Ventas](Proyectos/01-Analisis-Ventas) | Dashboard de ventas | ✅ |
 | [📈 Análisis de Ventas](Proyectos/02-Analisis-Nuevo-Centro-Distribucion) | Dashboard nuevo centro de distribucion | ✅ |
-| [📈 Análisis de Encustas Veterinarias](Proyectos/03-Analisis-Encuestas-Veterinarias) | Dashboard nuevo centro de distribucion | ✅ |
+| [📈 Análisis de Encustas Veterinarias](Proyectos/03-Analisis-Encuestas-Veterinarias) | Dashboard Encustas Veterinarias  | ✅ |
 
 ---
 
