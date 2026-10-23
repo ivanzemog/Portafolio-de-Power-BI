@@ -50,6 +50,10 @@ La solución permite consultar diferentes indicadores en un solo lugar, comparar
 - Análisis de encuestas.
 - Comunicación de información para apoyar la toma de decisiones.
 
+  ## 🖼️ Vista previa del dashboard
+
+![Dashboard de encuestas veterinarias](veterinaria-2026-10-23T01-35-39.073Z.jpg)
+
 ---
 
 *Proyecto de portafolio de análisis de datos. Los resultados corresponden a la muestra de encuestados y no necesariamente representan a todo el sector veterinario.*
